@@ -1,4 +1,4 @@
-# Mohammad_Shiblu_profile
+
 <body>
   <div align="center">
     <h1> Hi there, I'm Mohammad Ulla Shiblu👋<a href="#"></h1>
@@ -95,10 +95,10 @@
 
 <p align="center">
 <a href="https://github.com/Mohammad-Shiblu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asifmustafa87&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asifmustafa87&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Shiblu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mohammad-Shiblu&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=asifmustafa87&show_icons=true&locale=en&layout=demo&theme=algolia" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Shiblu&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
 </p>
 <br>
